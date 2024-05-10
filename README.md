@@ -10,16 +10,16 @@ Este script foi desenvolvido como parte da minha participação na "Imersão IA 
 **Como utilizar**
 
 1. Clone este repositório para sua máquina local:
-  git clone https://github.com/seu_usuario/nome_do_repositório.git
+  `git clone https://github.com/seu_usuario/nome_do_repositório.git`
 2. Instale as dependências necessárias:
-  pip install -r requirements.txt
+  `pip install -r requirements.txt`
 
 Adicione os documentos que seu escritório utiliza em 
 
-`documents = [
+```documents = [
   {
     "Titulo":"o titulo do documento",
     "Conteúdo":"O conteúdo do documento que será utilizado como modelo"
   }
 ]
-`
+```
