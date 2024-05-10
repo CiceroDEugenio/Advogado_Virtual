@@ -16,10 +16,10 @@ Este script foi desenvolvido como parte da minha participação na "Imersão IA 
 
 Adicione os documentos que seu escritório utiliza em 
 
-documents = [
+`documents = [
   {
     "Titulo":"o titulo do documento",
     "Conteúdo":"O conteúdo do documento que será utilizado como modelo"
   }
 ]
-
+`
