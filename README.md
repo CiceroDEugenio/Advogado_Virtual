@@ -14,3 +14,12 @@ Este script foi desenvolvido como parte da minha participação na "Imersão IA 
 2. Instale as dependências necessárias:
   pip install -r requirements.txt
 
+Adicione os documentos que seu escritório utiliza em 
+
+documents = [
+  {
+    "Titulo":"o titulo do documento",
+    "Conteúdo":"O conteúdo do documento que será utilizado como modelo"
+  }
+]
+
